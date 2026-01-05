@@ -1,4 +1,4 @@
-# DevOps Journey to Spain (2040) 🇪🇸
+# DevOps Journey to Spain (2040) 
 
 이 저장소는 2040년 바르셀로나 이주를 꿈꾸는 백엔드 개발자의 DevOps 성장 기록입니다.
 
